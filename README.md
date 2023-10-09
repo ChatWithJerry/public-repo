@@ -1,1 +1,5 @@
 # public-repo
+
+*
+!.gitignore
+!workspace
